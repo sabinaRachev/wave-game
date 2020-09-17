@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="game:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d219d29-9e69-4b6a-b3af-ab1a05f0b41a" name="Default Changelist" comment="" />
+    <list default="true" id="2d219d29-9e69-4b6a-b3af-ab1a05f0b41a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/AudioPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/AudioPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/BasicEnemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/BasicEnemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/BufferedImageLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/BufferedImageLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/Coin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/Coin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/EnemyBoss.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/EnemyBoss.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/EnemyClassBullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/EnemyClassBullet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/FastEnemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/FastEnemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/Game$STATE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/Game$STATE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/GameObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/GameObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/HUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/HUD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/Handler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/HardEnemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/HardEnemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/Health.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/Health.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/ID.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/ID.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/KeyInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/KeyInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/MenuPartical.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/MenuPartical.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/Option.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/Option.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/PlayerName$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/PlayerName$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/PlayerName$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/PlayerName$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/PlayerName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/PlayerName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/SmallBossEnemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/SmallBossEnemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/SmallBullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/SmallBullet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/SmartEnemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/SmartEnemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/Spawn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/Spawn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/SpriteSheet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/SpriteSheet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/Trail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/Trail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/Window.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/highscoreFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/highscoreFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlayerName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlayerName.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,16 +61,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ftvP5eyHKvcaa3kZlt8q4nVdbT" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JAR Application.game.jar">
     <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Game" />
       <module name="game" />
@@ -47,9 +96,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="game.jar" type="JarApplication" singleton="false" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/game_jar/game.jar" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=libs\" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Game" />
+      <item itemvalue="JAR Application.game.jar" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Game" />
+        <item itemvalue="JAR Application.game.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -68,10 +129,27 @@
       <workItem from="1598779968682" duration="2771000" />
       <workItem from="1599401691957" duration="109000" />
       <workItem from="1600163760644" duration="36000" />
+      <workItem from="1600340556094" duration="208000" />
+      <workItem from="1600340895706" duration="208000" />
+      <workItem from="1600341204289" duration="1999000" />
+      <workItem from="1600343272498" duration="3018000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

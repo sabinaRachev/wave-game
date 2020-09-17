@@ -9,12 +9,14 @@ public class Handler {
     public void tick(){
         for (int i=0;i<object.size();i++){
             GameObject temp=object.get(i);
+            if (temp!=null)
             temp.tick();
         }
     }
     public void render(Graphics g){
         for (int i=0;i<object.size();i++) {
                 GameObject temp = object.get(i);
+                if (temp!=null)
                 temp.render(g);
         }
     }
@@ -33,6 +35,9 @@ public class Handler {
                 addObject(new Player(temp.getX(), temp.getY(), ID.player, this));
             }
         }
+    }
+    public void  clearAll(){
+        object.clear();
     }
     public ArrayList<GameObject> getObject(){
         return object;
